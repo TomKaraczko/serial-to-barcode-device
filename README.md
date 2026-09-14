@@ -33,5 +33,7 @@ Core Workflow
     No additional devices: this add-on-device runs without periphals or regular monitor. plug-n-display! 
 
 Releases
-I will release the python script as such + the full funtioning raspian-32-bit-image incl autostart-function, script and drivers.
-(A connection to the world wide web will not be possible with this image, since the image is stripped off all network adapter for faster boot and less security concerns.)
+
+    I will release the python script as such + the full funtioning raspian-32-bit-image incl autostart-function, script and drivers.
+
+    (A connection to the world wide web will not be possible with this image, since the image is stripped off all network adapter for faster boot and less security concerns.)
